@@ -1571,10 +1571,6 @@ ol {
 	display: inline-block;
 }
 
-.about__pic__inner img {
-	height: 100%;
-}
-
 .about__pic__inner:after {
 	position: absolute;
 	left: 50px;
@@ -3109,6 +3105,9 @@ ol {
 	.latest__btn {
 		margin-bottom: 40px;
 		text-align: left;
+	}
+	.counter__item__number h2{
+		width: 110px;
 	}
 }
 
