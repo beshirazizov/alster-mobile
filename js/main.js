@@ -1,12 +1,3 @@
-/*  ---------------------------------------------------
-    Theme Name: Staging
-    Description: Staging bootstrap tamplate
-    Author: Colorib
-    Author URI: https://www.colorib.com/
-    Version: 1.0
-    Created: Colorib
----------------------------------------------------------  */
-
 'use strict';
 
 (function ($) {
@@ -61,7 +52,7 @@
         animateIn: 'fadeIn',
         smartSpeed: 3000,
         autoHeight: false,
-        autoplay: true,
+        autoplay: false,
         mouseDrag: false,
         onInitialized: function (e) {
             var a = this.items().length;
