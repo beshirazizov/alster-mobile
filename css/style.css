@@ -3186,3 +3186,12 @@ ol {
 	margin-right: 15px;
 	font-size: 13px;
 }
+.lang{
+	display: flex;
+	align-items: center;
+}
+.lang img{
+	width: 17px;
+	position: relative;
+	top: -1px;
+}
